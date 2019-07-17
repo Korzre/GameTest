@@ -1,0 +1,18 @@
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\bin\Debug\Jogo em Teste.exe.config
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\bin\Debug\Jogo em Teste.exe
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\bin\Debug\Jogo em Teste.pdb
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.csprojResolveAssemblyReference.cache
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo_em_Teste.Form1.resources
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo_em_Teste.Properties.Resources.resources
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.csproj.GenerateResource.Cache
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.exe
+c:\users\hp user\documents\visual studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.pdb
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\bin\Debug\Jogo em Teste.exe.config
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.exe
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.pdb
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\bin\Debug\Jogo em Teste.exe
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\bin\Debug\Jogo em Teste.pdb
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.csprojResolveAssemblyReference.cache
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo_em_Teste.Form1.resources
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo_em_Teste.Properties.Resources.resources
+C:\Users\Korzre\Documents\Visual Studio 2012\Projects\Jogo em Teste\Jogo em Teste\obj\Debug\Jogo em Teste.csproj.GenerateResource.Cache
